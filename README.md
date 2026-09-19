@@ -1,2 +1,2 @@
-# PROGRAMACI-N-L-GICA-FUNCIONAL-2026-2-7SS
+# PROGRAMACION LOGICA FUNCIONAL 2026-2-7SS
 Ejercicios y proyectos de Programación Lógica 
